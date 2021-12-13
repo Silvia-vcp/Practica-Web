@@ -1,0 +1,139 @@
+﻿ 
+body {
+  background-color: #000000;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.texto_centrado{
+    text-align: center;
+}
+
+.tamano_container{
+    width: 75%;
+}
+
+.tamanno_titulo {
+    font-size: 50px;
+}
+
+.estilo_ofertas {
+    font-family: 'Brush Script MT', cursive;  
+    font-size: 40px; 
+}
+
+.estilo_1 {
+    font-size: 25px;
+
+}
+
+.color_oferta_impar{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+}
+
+.color_oferta_par{
+    background-color: #404040;
+    color: white;
+    text-align: center;
+}
+
+.estilo_pequeno{
+    font-size: 15px;
+    color: #FFD700;
+}
+
+.estilo_2 {
+    font-size: 20px;
+}
+.estilo_3 {
+    font-family: 'sans-serif', cursive; 
+    font-size: 15px; 
+}
+.estilo_4 {
+    font-family: 'Brush Script MT', cursive;  
+    font-size: 25px; 
+}
+.estilo_5 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 15px;"
+}
+.estilo_6 {
+    width:250px;
+    height:166px; 
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.checked {
+    color : rgb(91, 255, 67);
+}
+
+.first_neon {
+    background: none repeat scroll 0 0 #000000;
+    border: 1px solid;
+    border-radius: 15px;
+    color: #FFFFFF;
+    cursor: pointer;
+    float: left;
+    font-family:"Warnes";
+    margin: auto;
+    padding: 26px 10px;
+    text-align: center;
+    text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FF00DE, 0 0 70px #FF00DE, 0 0 80px #FF00DE, 0 0 100px #FF00DE;
+    transition: text-shadow 0.5s ease 0s;
+    width: 100%;
+}
+
+.first_neon:hover {
+    text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #00FFFF, 0 0 70px #00FFFF, 0 0 80px #00FFFF, 0 0 100px #00FFFF;
+}
+
+.second_neon {
+    border: 1px solid;
+    border-radius: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: table-cell;
+    float: left;
+    font-family:"Zeyada";
+    margin-left: 20px;
+	transition: text-shadow 0.5s ease 0s;
+    padding: 45px 25px;
+    text-align: center;
+    text-shadow: 0 0 10px #FFFFFF, 0 0 15px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #008000, 0 0 70px #008000, 0 0 80px #008000, 0 0 100px #008000;
+    width:100%;
+}
+.second_neon:hover {
+    text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FFFF00, 0 0 70px #FFFF00, 0 0 80px #FFFF00, 0 0 100px #FFFF00;
+}
+.third_neon {
+    border: 1px solid;
+    border-radius: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: table-cell;
+    float: left;
+    font-family:"Princess Sofia";
+    margin-left: 20px;
+	transition: text-shadow 0.5s ease 0s;
+	padding: 13px 25px;
+    text-align: center;
+    text-shadow: 0 0 10px #FFFFFF, 0 0 15px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #00FFFF, 0 0 70px #00FFFF, 0 0 80px #00FFFF, 0 0 100px #00FFFF;
+    width: 100%;
+}
+
+.third_neon:hover {
+    text-shadow: 0 0 6px #FFFFFF, 0 0 15px #FFFFFF, 0 0 25px #FFFFFF, 0 0 40px #7FFF00, 0 0 70px #7FFF00, 0 0 80px #7FFF00, 0 0 100px #7FFF00;
+}
